@@ -2,7 +2,7 @@
 
 This is a disassembly of Pokémon Red and Blue.
 
-It builds the following ROMs:
+It builds the folalowing ROMs:
 
 - Pokemon Red (UE) [S][!].gb `sha1: ea9bcae617fdf159b045185467ae58b2e4a48b9a`
 - Pokemon Blue (UE) [S][!].gb `sha1: d7037c83e1ae5b39bde3c30787637ba1d4c48ce2`
